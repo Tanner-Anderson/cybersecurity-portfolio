@@ -1,19 +1,26 @@
 # Cybersecurity Portfolio — Tanner Anderson
 
-Welcome to my cybersecurity portfolio. I am a Cyber and Network Security student at ECPI University.
+Welcome to my cybersecurity portfolio. I am a Cyber and Network Security student at ECPI University and a U.S. Air Force veteran with over 20 years of security experience.
 
 ## About Me
 
-- U.S. Air Force veteran with 20+ years of security experience
-- Interests: Ethical Hacking, Network Defense, Digital Forensics, Incident Response
-- Certifications: Currently pursuing cybersecurity certifications
-- Student at ECPI University
+* Student at ECPI University
+* U.S. Air Force veteran
+* Interests: Ethical Hacking, Network Defense, Digital Forensics, Incident Response
+* Currently building hands-on cybersecurity skills through labs, projects, and certifications
 
 ## Portfolio Contents
 
-| Folder | Description |
-|---------|------------|
-| labs | Hands-on cybersecurity labs |
-| projects | Independent and group projects |
-| certifications | Certification notes and badges |
-| writeups | CTF and security challenge writeups |
+| Folder         | Description                                     |
+| -------------- | ----------------------------------------------- |
+| labs           | Hands-on cybersecurity labs and exercises       |
+| projects       | Independent and academic cybersecurity projects |
+| certifications | Certification study notes and achievements      |
+| writeups       | Security research, CTFs, and challenge writeups |
+
+## Goals
+
+* Develop practical cybersecurity skills
+* Build a professional portfolio for employers
+* Pursue industry certifications
+* Transition into a cybersecurity career
